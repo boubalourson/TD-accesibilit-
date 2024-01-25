@@ -8,3 +8,19 @@
     color: #fd8787;
 
 }
+
+/* div{
+
+    border: solid 5px red;
+} */
+
+span{
+    
+        color: red;
+}
+
+.info-album{
+
+    border: 3px solid rgb(31, 28, 28);
+    border-radius: 5px;
+}
